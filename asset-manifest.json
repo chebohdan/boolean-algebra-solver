@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boolean-algebra-solver/static/css/main.44f8b8b5.css",
+    "main.js": "/boolean-algebra-solver/static/js/main.7fde1374.js",
+    "index.html": "/boolean-algebra-solver/index.html",
+    "main.44f8b8b5.css.map": "/boolean-algebra-solver/static/css/main.44f8b8b5.css.map",
+    "main.7fde1374.js.map": "/boolean-algebra-solver/static/js/main.7fde1374.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.7fde1374.js"
+  ]
+}
