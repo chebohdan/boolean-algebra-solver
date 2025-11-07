@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main # triggers on push to main
+      - master # triggers on push to main
 
 jobs:
   build-and-deploy:
